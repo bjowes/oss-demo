@@ -1,0 +1,26 @@
+{
+  "name": "oss-demo",
+  "version": "1.0.0",
+  "description": "OSS demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive ./**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjowes/oss-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Björn Weström",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjowes/oss-demo/issues"
+  },
+  "homepage": "https://github.com/bjowes/oss-demo#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^6.1.4"
+  }
+}
